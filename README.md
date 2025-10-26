@@ -1,20 +1,4 @@
-# 🌍 WebDev Repository 
-**A collection of web projects built with ReactJS + Vite**  
-
-This repository contains two major projects:  
-
-- **Charity** – A fully responsive charity website template.  
-- **Voiid** – A personal portfolio showcasing skills, projects, and achievements.  
-
----
-
 ## 📌 Projects Overview  
-
-WebDev/
-
-│── Charity/   
-│── Voiid/     
-└── README.md 
 
 ### 🏡 Charity - A ReactJS Template  
 **Charity** is a fully responsive **charity website template** built using **ReactJS + Vite**. This template is designed for **non-profits, donation platforms, and community outreach programs**, providing a structured layout for raising awareness and receiving donations.  
@@ -31,8 +15,8 @@ WebDev/
 #### 🔹 Installation & Setup  
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/official-imvoiid/WebDev.git
-   cd WebDev/Charity
+   git clone https://github.com/official-imvoiid/CharityWebsite-Template.git
+   cd CharityWebsite-Template/Charity/charity-react
    ```
 
 2. **Install Dependencies**  
@@ -48,45 +32,6 @@ WebDev/
 
 4. **Open in Browser**  
    - Visit `http://localhost:5173` to view the website locally.  
-
----
-
-### 👤 Voiid - Personal Portfolio  
-**Voiid** is a **personal portfolio website** designed to showcase **web development projects, cybersecurity achievements, and technical skills**. Built using **ReactJS + Vite**, this portfolio serves as a central hub for displaying work, connecting with others, and expanding professional reach.  
-
-#### 🔹 Features  
-- **Project Showcase** – A dedicated section to highlight past and ongoing projects.  
-- **Resume & Contact Section** – Easy access to professional details and contact options.  
-- **Social Media Integration** – Direct links to GitHub, LinkedIn, and other platforms.  
-- **Dark Mode Support** – A sleek **dark mode** for better user experience.  
-- **Minimal & Clean UI** – Focuses on simplicity and clarity for an elegant design.  
-- **Fast & Lightweight** – Built with **React + Vite** for optimal performance.  
-- **Scalable & Open Source** – Easily customizable and free to expand upon.  
-
-#### 🔹 Installation & Setup  
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/official-imvoiid/WebDev.git
-   cd WebDev/Voiid
-   ```
-
-2. **Install Dependencies**  
-   ```bash
-   npm install
-   npm install vite --save-dev
-   npm install react-router-dom
-   npm install emailjs-com react-google-recaptcha
-   ```
-
-3. **Start Development Server**  
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in Browser**  
-   - Visit `http://localhost:5173` to view the website locally.  
-
----
 
 ## 🛠 Tech Stack  
 - **ReactJS + Vite** – Fast and optimized frontend development.  
@@ -96,7 +41,7 @@ WebDev/
 ---
 
 ## 🤝 Contribute  
-Both **Charity** and **Voiid** are open-source projects. Contributions, feedback, and improvements are always welcome!  
+Contributions, feedback, and improvements are always welcome!  
 
 To contribute:  
 1. **Fork the repository**  
