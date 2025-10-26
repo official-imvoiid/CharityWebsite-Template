@@ -16,7 +16,7 @@
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/official-imvoiid/CharityWebsite-Template.git
-   cd CharityWebsite-Template/Charity/charity-react
+   cd CharityWebsite-Template/charity-react
    ```
 
 2. **Install Dependencies**  
